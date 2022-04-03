@@ -1,7 +1,7 @@
 Exercices conçus ou rassemblés par Dan Meller (X2019) pour des khôlles de mathématiques en MPSI au lycée privé Sainte-Geneviève. 
 ## Le recueil 
 
-Les exercices peuvent être téléchargés <a href="./Dan_Meller_exercices_MPSI.pdf" target="_top">ici en pdf</a>
+Les exercices peuvent être téléchargés <a href="./Dan_Meller_exercices_MPSI.pdf" target="_blank">ici en pdf</a>
 
 ## Le code 
 Certains exercices sont accompagnés de code python permettant de réaliser quelques simulations : 
