@@ -1,0 +1,16 @@
+# Site wide configuration
+
+title: Exercices Maths sup Ginette MPSI
+locale: fr
+logo: # filename of a logo image that has been placed into your images directory
+theme: minima
+
+# Enter the following platform usernames if you would like for them to appear on your site.
+owner:
+  name: Dan Meller
+  bio: "X2019"
+  # Do not include the @ symbol in your Twitter username
+  linkedin: #username
+  github: danmlr
+  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  researchgate: Dan-Meller
