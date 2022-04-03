@@ -16,5 +16,5 @@ owner:
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: Dan-Meller
 
-theme: jekyll-theme-cayman
+theme: minima
 show_downloads: false
