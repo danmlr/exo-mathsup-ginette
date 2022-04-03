@@ -8,7 +8,7 @@ def displayRayPath(f=1,L=np.pi):
 	"""
 	Cette fonction simule le dispositif optique suivant : 
 	
-	Miroir <--- L/2---> Lentille <---L/2---
+	Miroir <--- L/2---> Lentille <---L/2---> Miroir
 	
 	f: distance focale de la lentille 
 	On affiche la trajectoire partant du centre du premier miroir avec une pente de 1. 
