@@ -1,9 +1,16 @@
 # Site wide configuration
 
-title: Exercices Maths sup Ginette MPSI
+title: Exercices de mathématiques - Ginette MPSI
 locale: fr
 logo: # filename of a logo image that has been placed into your images directory
-theme: minima
+description: > # this means to ignore newlines until "baseurl:"
+  Exercices de mathématiques - MPSI - Ginette : Ces exercices ont été choisis ou conçus pour découvrir le programme sous l’angle de problèmes
+  assez variés, voire parfois exotiques. Les techniques utilisées dans les résolutions sont cependant relativement
+  universelles et permettent d’appliquer des notions de cours importantes, souvent à la croisée
+  de plusieurs chapitres. Certains exercices permettent également d’aborder des éléments importants de
+  culture mathématique avec les outils du programme.
+  Les exercices marqués par un delta sont considérés comme classiques. Des éléments de correction sontsystématiquement donnés quand la technique de résolution ne découle pas simplement de l’énoncé de
+  la question.
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
