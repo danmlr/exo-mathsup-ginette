@@ -6,6 +6,6 @@ Les exercices peuvent être téléchargés <a href="./Dan_Meller_exercices_MPSI.
 ## Le code 
 Certains exercices sont accompagnés de code python permettant de réaliser quelques simulations : 
 
-- (13.1) *Optique matricielle* [code](https://github.com/danmlr/exo-mathsup-ginette/blob/main/groupe_heisenberg_discret.py)
-- (14.1) *Groupe de Heisenberg discret* [code](https://github.com/danmlr/exo-mathsup-ginette/blob/main/lentille.py)
+- (13.1) *Optique matricielle* [code](https://github.com/danmlr/exo-mathsup-ginette/groupe_heisenberg_discret.py)
+- (14.1) *Groupe de Heisenberg discret* [code](https://github.com/danmlr/exo-mathsup-ginette/lentille.py)
 
