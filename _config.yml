@@ -21,3 +21,5 @@ owner:
   github: danmlr
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: Dan-Meller
+
+theme: jekyll-theme-cayman
