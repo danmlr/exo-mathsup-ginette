@@ -10,10 +10,10 @@ description: > # this means to ignore newlines until "baseurl:"
 owner:
   name: Dan Meller
   bio: "X2019"
-  # Do not include the @ symbol in your Twitter username
   linkedin: #username
   github: danmlr
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: Dan-Meller
 
+google_analytics: G-ZEYG2GCPFV
 
