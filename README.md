@@ -1,14 +1,4 @@
-<head>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZEYG2GCPFV"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-ZEYG2GCPFV');
-</script>
-</head>
 
 Exercices conçus ou rassemblés par Dan Meller (X2019) pour des khôlles de mathématiques en MPSI au lycée privé Sainte-Geneviève. 
 ## Le recueil 
