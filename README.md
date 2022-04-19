@@ -15,16 +15,16 @@ Certains exercices sont accompagnés de code python permettant de réaliser quel
 
 ##### Introduction (Page 4)
 ##### Nombres complexes (Page 4)
-2.1 ∆ Somme de racines de l’unité                
-2.2 Cône complexe                     
+  2.1 ∆ Somme de racines de l’unité                
+  2.2 Cône complexe                     
 ##### Ensembles et applications (Page 5)
-3.1 Pseudo-inverse                     
-3.2 Entropie discrète et lemme de Gibbs               
-3.3 Parité et involution                    
+  3.1 Pseudo-inverse                     
+  3.2 Entropie discrète et lemme de Gibbs               
+  3.3 Parité et involution                    
 ##### Groupes, anneaux et corps (Page 6)
-4.1 Technologie RAID 5 et RAID 6                 
-4.2 Rubik’s Cube                      
-4.3 ∆ Ordre dans un groupe commutatif fini              
+  4.1 Technologie RAID 5 et RAID 6                 
+  4.2 Rubik’s Cube                      
+  4.3 ∆ Ordre dans un groupe commutatif fini              
 ##### Arithmétique (Page 8)
 5.1 ∆ Théorème chinois                    
 5.2 ∆ Indicatrice d’Euler                    
