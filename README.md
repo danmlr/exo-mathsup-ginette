@@ -5,23 +5,23 @@ Exercices conçus ou rassemblés par Dan Meller (X2019) pour des khôlles de mat
 
 Les exercices peuvent être téléchargés <a href="https://danmlr.github.io/exo-mathsup-ginette/Dan_Meller_exercices_MPSI.pdf">ici en pdf</a>
 
-## Le code 
+# Le code 
 Certains exercices sont accompagnés de code python permettant de réaliser quelques simulations : 
 
 - (13.1) *Optique matricielle* [code](https://github.com/danmlr/exo-mathsup-ginette/blob/main/groupe_heisenberg_discret.py)
 - (14.1) *Groupe de Heisenberg discret* [code](https://github.com/danmlr/exo-mathsup-ginette/blob/main/lentille.py)
 
-## Table des matières
+### Table des matières
 
-#### Introduction (Page 4)
-#### Nombres complexes (Page 4)
+##### Introduction (Page 4)
+##### Nombres complexes (Page 4)
 2.1 ∆ Somme de racines de l’unité                
 2.2 Cône complexe                     
-#### Ensembles et applications (Page 5)
+##### Ensembles et applications (Page 5)
 3.1 Pseudo-inverse                     
 3.2 Entropie discrète et lemme de Gibbs               
 3.3 Parité et involution                    
-#### Groupes, anneaux et corps (Page 6)
+##### Groupes, anneaux et corps (Page 6)
 4.1 Technologie RAID 5 et RAID 6                 
 4.2 Rubik’s Cube                      
 4.3 ∆ Ordre dans un groupe commutatif fini              
