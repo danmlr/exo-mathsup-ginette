@@ -7,12 +7,10 @@ description: > # this means to ignore newlines until "baseurl:"
   par Dan Meller 
 
 # Enter the following platform usernames if you would like for them to appear on your site.
-owner:
+author:
   name: Dan Meller
   bio: "X2019"
-  linkedin: #username
   github: danmlr
-  orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: Dan-Meller
 
 google_analytics: G-ZEYG2GCPFV
