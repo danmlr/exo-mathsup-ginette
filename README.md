@@ -98,3 +98,7 @@ Certains exercices sont accompagnés de code python permettant de réaliser quel
 - 16.3 Exponentielle matricielle et formule de Taylor            
 ##### Équations différentielles (Page 42)
 - 17.1 Caustique aquatique   
+
+
+## Supplément : Théorie spectrale des graphes 
+Vous pourrez trouver <a href="https://danmlr.github.io/exo-mathsup-ginette/spectral_graph_analysis_introduction.pdf">ici en pdf</a> le support d'une conférence d'introduction à la théorie spectrale des graphes. Après avoir introduit le laplacien discret par analogie avec son homologue continu, diverses applications de celui-ci sont présentées, notamment : la transformée de Fourier discrète, le clustering spectral avec diffusion et les GCN (Graph Convolutional Networks).  
