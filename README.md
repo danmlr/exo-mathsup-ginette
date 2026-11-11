@@ -1,6 +1,6 @@
 
 
-Exercices conçus ou rassemblés par Dan Meller (X2019) pour des khôlles de mathématiques en MPSI au lycée privé Sainte-Geneviève. 
+Exercices conçus ou rassemblés par Dan Meller (X2019) pour des khôlles de mathématiques en MPSI au lycée Sainte-Geneviève. 
 ## Le recueil 
 
 Les exercices peuvent être téléchargés <a href="https://danmlr.github.io/exo-mathsup-ginette/Dan_Meller_exercices_MPSI.pdf">ici en pdf</a>
